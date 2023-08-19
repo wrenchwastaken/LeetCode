@@ -12,12 +12,12 @@ class Solution:
                 pointer.next = list1
                 list1 = list1.next
             else:
-                pointer.next = list2
-                list2 = list2.next
+                pointer.next=list2
+                list2=list2.next
             pointer=pointer.next
         if list1:
             pointer.next=list1
         else:
             pointer.next=list2
-        return temp.next 
+        return temp.next
         
