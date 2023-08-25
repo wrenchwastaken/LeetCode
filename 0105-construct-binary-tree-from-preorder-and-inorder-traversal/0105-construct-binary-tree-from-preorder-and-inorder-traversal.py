@@ -6,22 +6,18 @@
 #         self.right = right
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-        self.root_index = {}
-        self.index = 0
-        for i,num in enumerate(inorder):
-            self.root_index[num] = i
+        tree = None
         
-        def construct(left,right):
-            if left > right:
-                return None
-            root = preorder[self.index]
-            i = self.root_index[root]
-            self.index += 1
-            head = TreeNode(root)
-            head.left = construct(left,i - 1)
-            head.right = construct(i + 1, right)
-            return head
-        
-        n = len(preorder) - 1
-        return construct(0,n)
+        #check if the root exists in inorder
+        if len(preorder) and preorder[0] in inorder:
+            #find the root index
+            root_index =inorder.index(preorder[0])
+            #make the root node
+            tree = TreeNode(val=inorder[root_index])
+            #build left subtree
+            tree.left = self.buildTree(preorder[1:root_index+1], inorder[:root_index])
+            #build right subtree
+            tree.right = self.buildTree(preorder[root_index+1:], inorder[root_index+1:])
+        return tree
+
         
