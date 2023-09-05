@@ -1,7 +1,7 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         def expand(l,r):
-            while l>=0 and r<len(s) and s[l] == s[r]:
+            while l >= 0 and r < len(s) and s[l] == s[r]:
                 l -= 1
                 r += 1
             return s[l+1:r]
@@ -14,3 +14,5 @@ class Solution:
             if len(sub2) > len(result):
                 result = sub2
         return result
+
+        
