@@ -1,11 +1,11 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        map1 = []
-        map2 = []
+        list1 = []
+        list2 = []
         for i in s:
-            map1.append(s.index(i))
+            list1.append(s.index(i))
         for j in t:
-            map2.append(t.index(j))
-        if map1 == map2:
+            list2.append(t.index(j))
+        if list1 == list2:
             return True
         return False
