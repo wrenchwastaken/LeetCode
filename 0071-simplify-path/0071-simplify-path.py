@@ -3,9 +3,9 @@ class Solution:
         stack = []
         p = path.split("/")
         for i in p:
-            if i =="..":
+            if i == "..":
                 if stack:
                     stack.pop()
             elif i not in ("","."):
                 stack.append(i)
-        return "/" + "/".join(stack)
+        return "/"+"/".join(stack)
