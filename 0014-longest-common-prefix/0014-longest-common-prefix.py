@@ -3,9 +3,9 @@ class Solution:
         ans = ""
         strs = sorted(strs)
         first = strs[0]
-        last = strs [-1]
+        last = strs[-1]
         for i in range(min(len(first),len(last))):
-            if first[i]!=last[i]:
+            if first[i] != last[i]:
                 return ans
-            ans = ans + first[i]
+            ans += first[i]
         return ans
