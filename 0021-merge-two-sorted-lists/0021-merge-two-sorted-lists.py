@@ -14,5 +14,8 @@ class Solution:
                 current.next = list2
                 list2, current = list2.next, list2
         if list1 or list2:
-            current.next = list1 if list1 else list2
+            if list1:
+                current.next = list1
+            else:
+                current.next = list2
         return dummy.next
