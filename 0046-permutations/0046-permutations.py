@@ -1,11 +1,14 @@
 class Solution:
-    def permute(self, nums):
+    def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
-        self.dfs(nums, [], res)
-        return res
-    
-    def dfs(self, nums, path, res):
-        if not nums:
-            res.append(path)
-        for i in range(len(nums)):
-            self.dfs(nums[:i]+nums[i+1:], path+[nums[i]], res)
+        def dfs(counter, path):
+            if len(path) == len(nums):
+                res.append(path)
+                return
+            for x in counter:
+                if counter[x]:
+                    counter[x] -= 1
+                    dfs(counter, path+[x])
+                    counter[x] += 1
+        dfs(Counter(nums), [])
+        return res 
