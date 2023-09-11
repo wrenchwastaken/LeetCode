@@ -1,9 +1,11 @@
 class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
-        if len(nums) == 1:
-            return [nums]
-        result =[]
+    def permute(self, nums):
+        res = []
+        self.dfs(nums, [], res)
+        return res
+    
+    def dfs(self, nums, path, res):
+        if not nums:
+            res.append(path)
         for i in range(len(nums)):
-            for rest in self.permute(nums[:i]+nums[i+1:]):
-                result.append([nums[i]]+rest)
-        return result
+            self.dfs(nums[:i]+nums[i+1:], path+[nums[i]], res)
