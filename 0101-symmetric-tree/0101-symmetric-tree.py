@@ -12,11 +12,8 @@ class Solution:
     def isSame(self,leftroot,rightroot):
         if leftroot == None and rightroot == None:
             return True
-        elif leftroot == None or rightroot == None:
+        if leftroot == None or rightroot == None:
             return False
-        elif leftroot.val != rightroot.val:
+        if leftroot.val != rightroot.val:
             return False
-        else:
-            return self.isSame(leftroot.left, rightroot.right) and self.isSame(leftroot.right, rightroot.left)
-        
-        
+        return self.isSame(leftroot.left,rightroot.right) and self.isSame(leftroot.right,rightroot.left)
