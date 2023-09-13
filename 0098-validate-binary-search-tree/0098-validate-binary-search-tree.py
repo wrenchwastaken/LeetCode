@@ -4,14 +4,12 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
-    def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        ans = []
-        def inorder(root):
-            if not root:
-                return None
-            inorder(root.left)
-            ans.append(root.val)
-            inorder(root.right)
-        inorder(root)
-        return True if ans == list(sorted(set(ans))) else False
+class Solution(object):
+    def isValidBST(self, root, maximum = float('-inf'), minimum = float('inf')):
+        # Base case: root is null...
+        if not root: return True
+        # If the value of root is less thsn minimum Or greater than maximum...
+        if not maximum < root.val < minimum: return False
+        # Recursively call the function for the left and right subtree...
+        return self.isValidBST(root.left, maximum, root.val) and self.isValidBST(root.right, root.val, minimum)
+       
