@@ -37,6 +37,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/wrenchwastaken/LeetCode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/wrenchwastaken/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/wrenchwastaken/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/wrenchwastaken/LeetCode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/wrenchwastaken/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -55,5 +56,6 @@ Record Of LeetCode Problems I do Every Single Day
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/wrenchwastaken/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/wrenchwastaken/LeetCode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
