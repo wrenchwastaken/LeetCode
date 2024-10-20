@@ -28,6 +28,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0540-single-element-in-a-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/wrenchwastaken/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/wrenchwastaken/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/wrenchwastaken/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
@@ -48,6 +49,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0540-single-element-in-a-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/wrenchwastaken/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/wrenchwastaken/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/wrenchwastaken/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Matrix
