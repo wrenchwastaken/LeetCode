@@ -7,6 +7,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/wrenchwastaken/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -54,6 +56,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0074-search-a-2d-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/wrenchwastaken/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/wrenchwastaken/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -82,6 +85,7 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [0069-sqrtx](https://github.com/wrenchwastaken/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/wrenchwastaken/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/wrenchwastaken/LeetCode/tree/master/0441-arranging-coins) |
 ## Sliding Window
@@ -91,6 +95,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/wrenchwastaken/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
@@ -105,4 +110,8 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
