@@ -15,13 +15,13 @@ public:
                 count--;
             }
         }
-        int countForMj = 0;
-        for(int i = 0; i<nums.size();i++){
+        int countforMj = 0;
+        for(int i = 0;i<nums.size();i++){
             if(nums[i] == elem){
-                count++;
+                countforMj++;
             }
         }
-        if(count > nums.size()/2){
+        if(countforMj > nums.size()/2){
             return elem;
         }
         return -1;
