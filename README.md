@@ -8,6 +8,7 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [0001-two-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/wrenchwastaken/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/wrenchwastaken/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -37,6 +38,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0136-single-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/wrenchwastaken/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0275-h-index-ii) |
@@ -102,6 +104,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/wrenchwastaken/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/wrenchwastaken/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/wrenchwastaken/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -113,6 +116,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/wrenchwastaken/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/wrenchwastaken/LeetCode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -122,4 +126,8 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [0136-single-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/wrenchwastaken/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
