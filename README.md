@@ -138,4 +138,8 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/wrenchwastaken/LeetCode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
