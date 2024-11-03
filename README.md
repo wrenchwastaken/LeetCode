@@ -141,5 +141,10 @@ Record Of LeetCode Problems I do Every Single Day
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
