@@ -11,6 +11,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0160-intersection-of-two-linked-lists](https://github.com/wrenchwastaken/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/wrenchwastaken/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0283-move-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/wrenchwastaken/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/wrenchwastaken/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/wrenchwastaken/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -153,4 +155,8 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
