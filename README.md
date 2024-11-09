@@ -146,6 +146,7 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [0136-single-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
+| [3394-minimum-array-end](https://github.com/wrenchwastaken/LeetCode/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
 | ------- |
