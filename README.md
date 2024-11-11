@@ -66,6 +66,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/wrenchwastaken/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/wrenchwastaken/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0882-peak-index-in-a-mountain-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/wrenchwastaken/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/wrenchwastaken/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/wrenchwastaken/LeetCode/tree/master/0441-arranging-coins) |
+| [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +146,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
+| [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,4 +176,8 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
