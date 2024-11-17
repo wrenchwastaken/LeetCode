@@ -66,6 +66,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0745-find-smallest-letter-greater-than-target](https://github.com/wrenchwastaken/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/wrenchwastaken/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/wrenchwastaken/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/wrenchwastaken/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -99,6 +100,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0745-find-smallest-letter-greater-than-target](https://github.com/wrenchwastaken/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/wrenchwastaken/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/wrenchwastaken/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/wrenchwastaken/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -132,6 +134,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/wrenchwastaken/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Sorting
 |  |
@@ -148,6 +151,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/wrenchwastaken/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +193,7 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Number Theory
 |  |
 | ------- |
@@ -205,4 +210,12 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
