@@ -184,6 +184,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/wrenchwastaken/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0443-string-compression](https://github.com/wrenchwastaken/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0812-rotate-string) |
@@ -229,4 +230,8 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/wrenchwastaken/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
