@@ -10,6 +10,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0073-set-matrix-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/wrenchwastaken/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/wrenchwastaken/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +186,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/wrenchwastaken/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/wrenchwastaken/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0812-rotate-string) |
