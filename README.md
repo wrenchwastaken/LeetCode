@@ -132,6 +132,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/wrenchwastaken/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/wrenchwastaken/LeetCode/tree/master/0441-arranging-coins) |
+| [2032-largest-odd-number-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Sliding Window
 |  |
@@ -166,6 +167,7 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
+| [2032-largest-odd-number-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
@@ -187,6 +189,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0812-rotate-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2032-largest-odd-number-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
