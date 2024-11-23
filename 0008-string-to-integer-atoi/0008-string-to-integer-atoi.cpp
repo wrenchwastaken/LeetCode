@@ -1,5 +1,8 @@
 class Solution {
 public:
+    bool isDigit(char c){
+        return c >= '0' && c <= '9';
+    } 
     int myAtoi(string s) {
         int i = 0, n = s.length();
         long result = 0;  // Using long to handle overflow before clamping
@@ -17,7 +20,7 @@ public:
         }
 
         // Step 3: Convert digits to integer
-        while (i < n && isdigit(s[i])) {
+        while (i < n && isDigit(s[i])) {
             result = result * 10 + (s[i] - '0');
 
             // Step 4: Clamp the result to the 32-bit signed integer range
