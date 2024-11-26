@@ -22,6 +22,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/wrenchwastaken/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/wrenchwastaken/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wrenchwastaken/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/wrenchwastaken/LeetCode/tree/master/0048-rotate-image) |
@@ -268,4 +270,8 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/wrenchwastaken/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
