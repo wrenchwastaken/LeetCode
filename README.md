@@ -25,6 +25,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0002-add-two-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wrenchwastaken/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/wrenchwastaken/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/wrenchwastaken/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,4 +277,5 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/wrenchwastaken/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
