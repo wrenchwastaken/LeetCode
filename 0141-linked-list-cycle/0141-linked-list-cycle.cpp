@@ -9,17 +9,14 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode* temp = head;
-        if(head == nullptr || head->next == nullptr){
-            return false;
-        }
-        unordered_map<ListNode*,int> mpp;
-        while(temp!=nullptr){
-            if(mpp.find(temp)!=mpp.end()){
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast != nullptr && fast->next!=nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
+            if(slow == fast){
                 return true;
             }
-            mpp[temp]++;
-            temp = temp->next;
         }
         return false;
     }
