@@ -20,6 +20,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0451-sort-characters-by-frequency](https://github.com/wrenchwastaken/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0567-permutation-in-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/wrenchwastaken/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -54,6 +55,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/wrenchwastaken/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/wrenchwastaken/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/wrenchwastaken/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/wrenchwastaken/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -96,6 +98,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/wrenchwastaken/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/wrenchwastaken/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/wrenchwastaken/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/wrenchwastaken/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -132,6 +135,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/wrenchwastaken/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/wrenchwastaken/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/wrenchwastaken/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/wrenchwastaken/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -185,6 +189,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0451-sort-characters-by-frequency](https://github.com/wrenchwastaken/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/wrenchwastaken/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
