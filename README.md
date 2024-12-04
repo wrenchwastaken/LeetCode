@@ -72,6 +72,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0035-search-insert-position](https://github.com/wrenchwastaken/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/wrenchwastaken/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/wrenchwastaken/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/wrenchwastaken/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -311,5 +312,6 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/wrenchwastaken/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
