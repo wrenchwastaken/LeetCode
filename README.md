@@ -168,6 +168,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0050-powx-n](https://github.com/wrenchwastaken/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/wrenchwastaken/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/wrenchwastaken/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/wrenchwastaken/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/wrenchwastaken/LeetCode/tree/master/0441-arranging-coins) |
@@ -219,6 +220,7 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [0090-subsets-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/wrenchwastaken/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/wrenchwastaken/LeetCode/tree/master/3394-minimum-array-end) |
@@ -304,6 +306,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0021-merge-two-sorted-lists](https://github.com/wrenchwastaken/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/wrenchwastaken/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/wrenchwastaken/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/wrenchwastaken/LeetCode/tree/master/0231-power-of-two) |
 ## Merge Sort
 |  |
 | ------- |
