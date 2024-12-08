@@ -228,6 +228,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0136-single-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/wrenchwastaken/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/wrenchwastaken/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/wrenchwastaken/LeetCode/tree/master/3394-minimum-array-end) |
 ## Counting
