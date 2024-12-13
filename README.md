@@ -74,6 +74,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0048-rotate-image](https://github.com/wrenchwastaken/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/wrenchwastaken/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/wrenchwastaken/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/wrenchwastaken/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -218,6 +219,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/wrenchwastaken/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/wrenchwastaken/LeetCode/tree/master/0890-lemonade-change) |
@@ -294,6 +296,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/wrenchwastaken/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/wrenchwastaken/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/wrenchwastaken/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 ## Queue
