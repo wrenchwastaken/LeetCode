@@ -110,6 +110,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0907-koko-eating-bananas](https://github.com/wrenchwastaken/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1034-subarrays-with-k-different-integers](https://github.com/wrenchwastaken/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/wrenchwastaken/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1063-best-sightseeing-pair](https://github.com/wrenchwastaken/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -332,6 +333,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0055-jump-game](https://github.com/wrenchwastaken/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/wrenchwastaken/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/wrenchwastaken/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 ## Queue
 |  |
