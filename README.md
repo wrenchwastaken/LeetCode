@@ -46,6 +46,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wrenchwastaken/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/wrenchwastaken/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/wrenchwastaken/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/wrenchwastaken/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/wrenchwastaken/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/wrenchwastaken/LeetCode/tree/master/0148-sort-list) |
@@ -74,6 +75,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/wrenchwastaken/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/wrenchwastaken/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/wrenchwastaken/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/wrenchwastaken/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/0054-spiral-matrix) |
@@ -318,6 +320,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/wrenchwastaken/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/wrenchwastaken/LeetCode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -327,6 +330,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/wrenchwastaken/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/wrenchwastaken/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/wrenchwastaken/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -334,6 +338,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/wrenchwastaken/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/wrenchwastaken/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/wrenchwastaken/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0494-target-sum) |
