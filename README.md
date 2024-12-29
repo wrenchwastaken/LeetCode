@@ -330,6 +330,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0085-maximal-rectangle](https://github.com/wrenchwastaken/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/wrenchwastaken/LeetCode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/wrenchwastaken/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -341,6 +342,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0084-largest-rectangle-in-histogram](https://github.com/wrenchwastaken/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/wrenchwastaken/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/wrenchwastaken/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/wrenchwastaken/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Dynamic Programming
@@ -423,4 +425,12 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/wrenchwastaken/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
