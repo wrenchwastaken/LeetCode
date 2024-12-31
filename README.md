@@ -116,6 +116,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0890-lemonade-change](https://github.com/wrenchwastaken/LeetCode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/wrenchwastaken/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1025-minimum-cost-for-tickets](https://github.com/wrenchwastaken/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/wrenchwastaken/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/wrenchwastaken/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/wrenchwastaken/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -357,6 +358,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/wrenchwastaken/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/wrenchwastaken/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/wrenchwastaken/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/wrenchwastaken/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
