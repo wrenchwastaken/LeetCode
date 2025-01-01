@@ -299,6 +299,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1078-remove-outermost-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/wrenchwastaken/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/wrenchwastaken/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/wrenchwastaken/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -320,6 +321,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0560-subarray-sum-equals-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/wrenchwastaken/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Number Theory
 |  |
