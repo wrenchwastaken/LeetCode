@@ -132,6 +132,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1972-rotating-the-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/wrenchwastaken/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2358-number-of-ways-to-split-array](https://github.com/wrenchwastaken/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/wrenchwastaken/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/wrenchwastaken/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -325,6 +326,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/wrenchwastaken/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2358-number-of-ways-to-split-array](https://github.com/wrenchwastaken/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/wrenchwastaken/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Number Theory
 |  |
