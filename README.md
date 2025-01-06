@@ -444,6 +444,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/wrenchwastaken/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -458,6 +459,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/wrenchwastaken/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -467,6 +469,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/wrenchwastaken/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -483,6 +486,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/wrenchwastaken/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Design
 |  |
 | ------- |
