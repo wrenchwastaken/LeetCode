@@ -128,6 +128,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/wrenchwastaken/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/wrenchwastaken/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/wrenchwastaken/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/wrenchwastaken/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -306,6 +307,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/wrenchwastaken/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/wrenchwastaken/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/wrenchwastaken/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -328,6 +330,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/wrenchwastaken/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/wrenchwastaken/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/wrenchwastaken/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
