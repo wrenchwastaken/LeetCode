@@ -348,6 +348,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0094-binary-tree-inorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0503-next-greater-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/wrenchwastaken/LeetCode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
@@ -445,6 +446,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0124-binary-tree-maximum-path-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/wrenchwastaken/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -490,6 +492,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0124-binary-tree-maximum-path-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/wrenchwastaken/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -498,6 +501,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0460-lfu-cache](https://github.com/wrenchwastaken/LeetCode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
@@ -508,4 +512,12 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/wrenchwastaken/LeetCode/tree/master/0460-lfu-cache) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
