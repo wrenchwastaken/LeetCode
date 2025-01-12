@@ -26,6 +26,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/wrenchwastaken/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/wrenchwastaken/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -264,6 +265,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/wrenchwastaken/LeetCode/tree/master/0890-lemonade-change) |
+| [1502-construct-k-palindrome-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/wrenchwastaken/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -286,6 +288,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0229-majority-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/wrenchwastaken/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/wrenchwastaken/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1502-construct-k-palindrome-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/wrenchwastaken/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -304,6 +307,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1078-remove-outermost-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/wrenchwastaken/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/wrenchwastaken/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
