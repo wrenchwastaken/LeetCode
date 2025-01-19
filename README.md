@@ -104,6 +104,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0283-move-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/wrenchwastaken/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0494-target-sum) |
@@ -189,6 +190,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0073-set-matrix-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/wrenchwastaken/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1972-rotating-the-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -247,6 +249,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/wrenchwastaken/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/wrenchwastaken/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/wrenchwastaken/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -489,6 +492,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0102-binary-tree-level-order-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/wrenchwastaken/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
