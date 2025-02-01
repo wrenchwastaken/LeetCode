@@ -211,6 +211,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0029-divide-two-integers](https://github.com/wrenchwastaken/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/wrenchwastaken/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/wrenchwastaken/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/wrenchwastaken/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/wrenchwastaken/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/wrenchwastaken/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0189-rotate-array) |
@@ -392,6 +393,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0005-longest-palindromic-substring](https://github.com/wrenchwastaken/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/wrenchwastaken/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/wrenchwastaken/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/wrenchwastaken/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/wrenchwastaken/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/wrenchwastaken/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -561,4 +563,8 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/wrenchwastaken/LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/wrenchwastaken/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
