@@ -134,6 +134,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/wrenchwastaken/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/wrenchwastaken/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/wrenchwastaken/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -231,6 +232,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0367-valid-perfect-square](https://github.com/wrenchwastaken/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/wrenchwastaken/LeetCode/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/wrenchwastaken/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -369,6 +371,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0560-subarray-sum-equals-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/wrenchwastaken/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -558,11 +561,13 @@ Record Of LeetCode Problems I do Every Single Day
 | [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0460-lfu-cache](https://github.com/wrenchwastaken/LeetCode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/wrenchwastaken/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
