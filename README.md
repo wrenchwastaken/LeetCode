@@ -236,6 +236,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [2032-largest-odd-number-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/wrenchwastaken/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/wrenchwastaken/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -473,6 +474,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0051-n-queens](https://github.com/wrenchwastaken/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/wrenchwastaken/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Ordered Set
 |  |
 | ------- |
