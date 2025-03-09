@@ -166,6 +166,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/wrenchwastaken/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/wrenchwastaken/LeetCode/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,6 +260,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/wrenchwastaken/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Sorting
 |  |
 | ------- |
