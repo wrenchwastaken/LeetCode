@@ -549,6 +549,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0662-maximum-width-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/wrenchwastaken/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/wrenchwastaken/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -563,6 +564,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0515-find-largest-value-in-each-tree-row](https://github.com/wrenchwastaken/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/wrenchwastaken/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -613,6 +615,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Graph
 |  |
 | ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/wrenchwastaken/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
@@ -621,6 +624,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Union Find
 |  |
 | ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/wrenchwastaken/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Memoization
 |  |
