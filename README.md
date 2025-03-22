@@ -552,6 +552,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/wrenchwastaken/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/wrenchwastaken/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/wrenchwastaken/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -566,6 +567,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/wrenchwastaken/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/wrenchwastaken/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -617,6 +619,7 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/wrenchwastaken/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2793-count-the-number-of-complete-components](https://github.com/wrenchwastaken/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -626,6 +629,7 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/wrenchwastaken/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/wrenchwastaken/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Memoization
 |  |
 | ------- |
