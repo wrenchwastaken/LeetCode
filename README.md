@@ -453,6 +453,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1063-best-sightseeing-pair](https://github.com/wrenchwastaken/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/wrenchwastaken/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/wrenchwastaken/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/wrenchwastaken/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/wrenchwastaken/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Queue
@@ -618,11 +619,13 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/wrenchwastaken/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/wrenchwastaken/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2793-count-the-number-of-complete-components](https://github.com/wrenchwastaken/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/wrenchwastaken/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/wrenchwastaken/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
@@ -638,4 +641,8 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/wrenchwastaken/LeetCode/tree/master/0062-unique-paths) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/wrenchwastaken/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
