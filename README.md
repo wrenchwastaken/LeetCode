@@ -350,6 +350,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0012-integer-to-roman](https://github.com/wrenchwastaken/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wrenchwastaken/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/wrenchwastaken/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/wrenchwastaken/LeetCode/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -406,6 +407,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/wrenchwastaken/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/wrenchwastaken/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/wrenchwastaken/LeetCode/tree/master/0085-maximal-rectangle) |
