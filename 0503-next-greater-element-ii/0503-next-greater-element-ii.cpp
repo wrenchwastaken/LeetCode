@@ -14,9 +14,11 @@ public:
             }
             //check if i is in bound before circle
             if(i<n){
+                //if i inbound check if stack is not empty
                 if(st.empty()){
                     ans[i] = -1;
                 }
+                //if stack is not empty then tag ans
                 else{
                     ans[i] = st.top();
                 }
