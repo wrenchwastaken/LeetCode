@@ -11,6 +11,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0013-roman-to-integer](https://github.com/wrenchwastaken/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/wrenchwastaken/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/wrenchwastaken/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/wrenchwastaken/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/wrenchwastaken/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/wrenchwastaken/LeetCode/tree/master/0169-majority-element) |
@@ -105,6 +106,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0085-maximal-rectangle](https://github.com/wrenchwastaken/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/wrenchwastaken/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wrenchwastaken/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/wrenchwastaken/LeetCode/tree/master/0169-majority-element) |
@@ -355,6 +357,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0014-longest-common-prefix](https://github.com/wrenchwastaken/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/wrenchwastaken/LeetCode/tree/master/0044-wildcard-matching) |
+| [0139-word-break](https://github.com/wrenchwastaken/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/wrenchwastaken/LeetCode/tree/master/0443-string-compression) |
@@ -454,6 +457,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0070-climbing-stairs](https://github.com/wrenchwastaken/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/wrenchwastaken/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/wrenchwastaken/LeetCode/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -481,6 +485,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/wrenchwastaken/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/wrenchwastaken/LeetCode/tree/master/0139-word-break) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -646,6 +651,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/wrenchwastaken/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/wrenchwastaken/LeetCode/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
