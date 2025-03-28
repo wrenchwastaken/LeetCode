@@ -172,6 +172,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/wrenchwastaken/LeetCode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/wrenchwastaken/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -388,6 +389,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0735-asteroid-collision](https://github.com/wrenchwastaken/LeetCode/tree/master/0735-asteroid-collision) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/wrenchwastaken/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3447-clear-digits](https://github.com/wrenchwastaken/LeetCode/tree/master/3447-clear-digits) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/wrenchwastaken/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -402,6 +404,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [2358-number-of-ways-to-split-array](https://github.com/wrenchwastaken/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/wrenchwastaken/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/wrenchwastaken/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Number Theory
 |  |
 | ------- |
