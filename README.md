@@ -23,6 +23,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0496-next-greater-element-i](https://github.com/wrenchwastaken/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/wrenchwastaken/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/wrenchwastaken/LeetCode/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1034-subarrays-with-k-different-integers](https://github.com/wrenchwastaken/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -72,6 +73,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0567-permutation-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/wrenchwastaken/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0768-partition-labels](https://github.com/wrenchwastaken/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/wrenchwastaken/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/wrenchwastaken/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -319,6 +321,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0055-jump-game](https://github.com/wrenchwastaken/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0768-partition-labels](https://github.com/wrenchwastaken/LeetCode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/wrenchwastaken/LeetCode/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/wrenchwastaken/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -365,6 +368,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0443-string-compression](https://github.com/wrenchwastaken/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/wrenchwastaken/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/wrenchwastaken/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
