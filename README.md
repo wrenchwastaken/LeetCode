@@ -158,6 +158,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/wrenchwastaken/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/wrenchwastaken/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/wrenchwastaken/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2227-sum-of-subarray-ranges](https://github.com/wrenchwastaken/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -258,6 +259,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0441-arranging-coins](https://github.com/wrenchwastaken/LeetCode/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/wrenchwastaken/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/wrenchwastaken/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -341,6 +343,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0136-single-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/wrenchwastaken/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/wrenchwastaken/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/wrenchwastaken/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/wrenchwastaken/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -527,6 +530,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0090-subsets-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0494-target-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/wrenchwastaken/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/wrenchwastaken/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/wrenchwastaken/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Ordered Set
 |  |
@@ -671,8 +675,13 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/wrenchwastaken/LeetCode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/wrenchwastaken/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/wrenchwastaken/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/wrenchwastaken/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
