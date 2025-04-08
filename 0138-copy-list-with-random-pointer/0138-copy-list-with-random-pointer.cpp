@@ -16,34 +16,44 @@ public:
 
 class Solution {
 public:
-    Node* copyRandomList(Node* head) {
-        // inserted copy nodes in between the nodes;
-        Node*temp = head;
-        while(temp!=NULL){
-            Node*newnode = new Node(temp->val);
-            newnode->next = temp->next;
-            temp->next = newnode;
+    void putCopyinBetween(Node* head){
+        Node* temp = head;
+        while(temp != nullptr){
+            Node* copyNode = new Node(temp->val);
+            Node* nextNode = temp->next;
+            copyNode->next = nextNode;
+            temp->next = copyNode;
+            temp = nextNode;
+        }
+    }
+    void connectRandomPointer(Node* head){
+        Node* temp = head;
+        while(temp != nullptr){
+            Node* copyNode = temp->next;
+            if(temp->random != nullptr){
+                copyNode->random = temp->random->next;
+            }
+            else{
+                copyNode->random = nullptr;
+            }
             temp = temp->next->next;
         }
-        // join the random links;
-        temp = head;
-        while(temp!=NULL){
-            Node*t2 = temp->next;
-            if(temp->random == NULL)t2->random = NULL;
-            else t2->random = temp->random->next;
-            temp = temp->next->next;
-        }
-        //join the next links;;;
-        temp = head;
-        Node*dummy = new Node(-1);
-        Node*res = dummy;
-
-        while(temp!=NULL){
+    }
+    Node* connectNextandExtract(Node* head){
+        Node* temp = head;
+        Node* dummy = new Node(-1);
+        Node* res = dummy;
+        while(temp != nullptr){
             res->next = temp->next;
             res = res->next;
             temp->next = temp->next->next;
             temp = temp->next;
-        }   
+        }
         return dummy->next;
+    }
+    Node* copyRandomList(Node* head) {
+        putCopyinBetween(head);
+        connectRandomPointer(head);
+        return connectNextandExtract(head);
     }
 };
