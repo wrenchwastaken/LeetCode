@@ -38,6 +38,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/wrenchwastaken/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/wrenchwastaken/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/wrenchwastaken/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/wrenchwastaken/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [3429-special-array-i](https://github.com/wrenchwastaken/LeetCode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/wrenchwastaken/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/wrenchwastaken/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
 | ------- |
