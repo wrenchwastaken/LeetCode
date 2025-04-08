@@ -34,6 +34,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/wrenchwastaken/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2434-design-a-number-container-system](https://github.com/wrenchwastaken/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/wrenchwastaken/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wrenchwastaken/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/wrenchwastaken/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/wrenchwastaken/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/wrenchwastaken/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -574,6 +575,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wrenchwastaken/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -593,6 +595,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/wrenchwastaken/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wrenchwastaken/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/wrenchwastaken/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/wrenchwastaken/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -608,6 +611,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0662-maximum-width-of-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/wrenchwastaken/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wrenchwastaken/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/wrenchwastaken/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/wrenchwastaken/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -631,6 +635,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wrenchwastaken/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
 | ------- |
