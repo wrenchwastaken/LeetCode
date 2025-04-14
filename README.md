@@ -9,6 +9,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0001-two-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/wrenchwastaken/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wrenchwastaken/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/wrenchwastaken/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/wrenchwastaken/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/wrenchwastaken/LeetCode/tree/master/0139-word-break) |
@@ -98,6 +99,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0040-combination-sum-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/wrenchwastaken/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/wrenchwastaken/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/wrenchwastaken/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/wrenchwastaken/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/wrenchwastaken/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/wrenchwastaken/LeetCode/tree/master/0055-jump-game) |
@@ -294,6 +296,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0015-3sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/wrenchwastaken/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/wrenchwastaken/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/wrenchwastaken/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/wrenchwastaken/LeetCode/tree/master/0148-sort-list) |
@@ -382,6 +385,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0014-longest-common-prefix](https://github.com/wrenchwastaken/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/wrenchwastaken/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/wrenchwastaken/LeetCode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/wrenchwastaken/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/0205-isomorphic-strings) |
