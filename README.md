@@ -461,6 +461,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0094-binary-tree-inorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/wrenchwastaken/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/wrenchwastaken/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -659,6 +660,7 @@ Record Of LeetCode Problems I do Every Single Day
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/wrenchwastaken/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0460-lfu-cache](https://github.com/wrenchwastaken/LeetCode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
