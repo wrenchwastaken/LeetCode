@@ -21,6 +21,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0205-isomorphic-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/wrenchwastaken/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/wrenchwastaken/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/wrenchwastaken/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/wrenchwastaken/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -132,6 +133,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0275-h-index-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/wrenchwastaken/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/wrenchwastaken/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -278,6 +280,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/wrenchwastaken/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/wrenchwastaken/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/wrenchwastaken/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/wrenchwastaken/LeetCode/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/wrenchwastaken/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -672,6 +675,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0146-lru-cache](https://github.com/wrenchwastaken/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/wrenchwastaken/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/wrenchwastaken/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/wrenchwastaken/LeetCode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -731,4 +735,8 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [1656-count-good-triplets](https://github.com/wrenchwastaken/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wrenchwastaken/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/wrenchwastaken/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
