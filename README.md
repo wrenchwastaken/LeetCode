@@ -22,6 +22,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0229-majority-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/wrenchwastaken/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/wrenchwastaken/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/wrenchwastaken/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0451-sort-characters-by-frequency](https://github.com/wrenchwastaken/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/wrenchwastaken/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/wrenchwastaken/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -134,6 +135,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0283-move-zeroes](https://github.com/wrenchwastaken/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/wrenchwastaken/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/wrenchwastaken/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/wrenchwastaken/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0407-trapping-rain-water-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -281,6 +283,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0367-valid-perfect-square](https://github.com/wrenchwastaken/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/wrenchwastaken/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/wrenchwastaken/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/wrenchwastaken/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0441-arranging-coins](https://github.com/wrenchwastaken/LeetCode/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/wrenchwastaken/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -676,6 +679,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0155-min-stack](https://github.com/wrenchwastaken/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/wrenchwastaken/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/wrenchwastaken/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/wrenchwastaken/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/wrenchwastaken/LeetCode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/wrenchwastaken/LeetCode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/wrenchwastaken/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -739,4 +743,5 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/wrenchwastaken/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/wrenchwastaken/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
