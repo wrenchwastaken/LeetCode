@@ -416,6 +416,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0205-isomorphic-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/wrenchwastaken/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/wrenchwastaken/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/wrenchwastaken/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0768-partition-labels](https://github.com/wrenchwastaken/LeetCode/tree/master/0768-partition-labels) |
@@ -528,6 +529,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0410-split-array-largest-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/wrenchwastaken/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0518-coin-change-ii) |
 | [0639-decode-ways-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
