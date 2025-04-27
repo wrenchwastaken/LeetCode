@@ -423,6 +423,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0974-reorder-data-in-log-files](https://github.com/wrenchwastaken/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1078-remove-outermost-parentheses](https://github.com/wrenchwastaken/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1250-longest-common-subsequence](https://github.com/wrenchwastaken/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/wrenchwastaken/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/wrenchwastaken/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -534,6 +535,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0967-minimum-falling-path-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/wrenchwastaken/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/wrenchwastaken/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1250-longest-common-subsequence](https://github.com/wrenchwastaken/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/wrenchwastaken/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/wrenchwastaken/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/wrenchwastaken/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
