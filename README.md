@@ -411,6 +411,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0044-wildcard-matching](https://github.com/wrenchwastaken/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/wrenchwastaken/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/wrenchwastaken/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/wrenchwastaken/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/wrenchwastaken/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/wrenchwastaken/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -523,6 +524,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0070-climbing-stairs](https://github.com/wrenchwastaken/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/wrenchwastaken/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/wrenchwastaken/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/wrenchwastaken/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/wrenchwastaken/LeetCode/tree/master/0139-word-break) |
 | [0368-largest-divisible-subset](https://github.com/wrenchwastaken/LeetCode/tree/master/0368-largest-divisible-subset) |
