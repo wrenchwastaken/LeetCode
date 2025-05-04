@@ -33,6 +33,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/wrenchwastaken/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/wrenchwastaken/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1034-subarrays-with-k-different-integers](https://github.com/wrenchwastaken/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/wrenchwastaken/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/wrenchwastaken/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -165,6 +166,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1034-subarrays-with-k-different-integers](https://github.com/wrenchwastaken/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/wrenchwastaken/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/wrenchwastaken/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/wrenchwastaken/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/wrenchwastaken/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -398,6 +400,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [0229-majority-element-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/wrenchwastaken/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/wrenchwastaken/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/wrenchwastaken/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1502-construct-k-palindrome-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/wrenchwastaken/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2448-count-number-of-bad-pairs](https://github.com/wrenchwastaken/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
