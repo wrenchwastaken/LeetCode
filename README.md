@@ -209,6 +209,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [3429-special-array-i](https://github.com/wrenchwastaken/LeetCode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/wrenchwastaken/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/wrenchwastaken/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/wrenchwastaken/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
@@ -267,6 +268,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1972-rotating-the-box](https://github.com/wrenchwastaken/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/wrenchwastaken/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/wrenchwastaken/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [2692-take-gifts-from-the-richest-pile](https://github.com/wrenchwastaken/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/wrenchwastaken/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -736,6 +739,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/wrenchwastaken/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/wrenchwastaken/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2793-count-the-number-of-complete-components](https://github.com/wrenchwastaken/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -761,6 +765,7 @@ Record Of LeetCode Problems I do Every Single Day
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/wrenchwastaken/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/wrenchwastaken/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Enumeration
 |  |
 | ------- |
