@@ -305,6 +305,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [2448-count-number-of-bad-pairs](https://github.com/wrenchwastaken/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/wrenchwastaken/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/wrenchwastaken/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3637-count-number-of-balanced-permutations](https://github.com/wrenchwastaken/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -455,6 +456,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [2691-count-vowel-strings-in-ranges](https://github.com/wrenchwastaken/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/wrenchwastaken/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/wrenchwastaken/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3637-count-number-of-balanced-permutations](https://github.com/wrenchwastaken/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String Matching
 |  |
 | ------- |
@@ -560,6 +562,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/wrenchwastaken/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/wrenchwastaken/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/wrenchwastaken/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3637-count-number-of-balanced-permutations](https://github.com/wrenchwastaken/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Queue
 |  |
 | ------- |
@@ -765,6 +768,7 @@ Record Of LeetCode Problems I do Every Single Day
 | ------- |
 | [0062-unique-paths](https://github.com/wrenchwastaken/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wrenchwastaken/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3637-count-number-of-balanced-permutations](https://github.com/wrenchwastaken/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Shortest Path
 |  |
 | ------- |
