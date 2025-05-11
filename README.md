@@ -167,6 +167,7 @@ Record Of LeetCode Problems I do Every Single Day
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/wrenchwastaken/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/wrenchwastaken/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/wrenchwastaken/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/wrenchwastaken/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/wrenchwastaken/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/wrenchwastaken/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/wrenchwastaken/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
